@@ -1,0 +1,32 @@
+{
+  "name": "yanina_rd",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "eslint": "^8.57.0",
+    "install": "^0.13.0",
+    "mongoose": "^8.5.1",
+    "node-schedule": "^2.1.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.8.0",
+    "@types/mongoose": "^5.11.96",
+    "@types/node": "^22.0.0",
+    "@types/node-schedule": "^2.1.7",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "globals": "^15.8.0",
+    "prettier": "^3.3.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4",
+    "typescript-eslint": "^7.18.0"
+  }
+}
